@@ -14,5 +14,5 @@ public class Cnt {
 
     public static void main(String[] args) {
         Integer[] a = {1, 2, 3, 2, 4, 2, 5};
-        System.out.println("2 -> " + cnt(a, 2));
+        System.out.println("2 : " + cnt(a, 2));
     }
