@@ -1,5 +1,5 @@
-# GENRICS
-pACKAGE PACK1;
+# GENRICs
+package PACK1;
 public class Cnt {
 
     Public static <T> int cnt(T[] arr, T tgt) {
